@@ -1,5 +1,10 @@
-# Blog Post
-## My first Blog Post
-* Post1
-* Post2
-* Post3
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
